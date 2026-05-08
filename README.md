@@ -100,6 +100,16 @@ docker run --rm \
   --video data/match_1.mp4 --output-dir outputs
 ```
 
+with GPU
+```bash
+docker run --rm --gpus all \
+  -v "$PWD/data:/app/data:ro" \
+  -v "$PWD/models:/app/models:ro" \
+  -v "$PWD/outputs:/app/outputs" \
+  padel-shot-classifier:latest \
+  --video data/match_1.mp4 --output-dir outputs
+```
+
 Push to Docker Hub:
 
 ```bash
