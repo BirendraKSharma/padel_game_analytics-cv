@@ -1,0 +1,9 @@
+services:
+  padel-shot-classifier:
+    build: .
+    image: padel-shot-classifier:latest
+    volumes:
+      - ./data:/app/data:ro
+      - ./models:/app/models:ro
+      - ./outputs:/app/outputs
+    command: ["--video", "data/match_1.mp4", "--output-dir", "outputs"]

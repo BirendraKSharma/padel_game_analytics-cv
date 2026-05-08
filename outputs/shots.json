@@ -1,0 +1,135 @@
+[
+  {
+    "frame_idx": 11,
+    "timestamp_sec": 0.44,
+    "player_id": 14,
+    "shot_type": "FOREHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 23,
+    "timestamp_sec": 0.92,
+    "player_id": 2,
+    "shot_type": "FOREHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 321,
+    "timestamp_sec": 12.84,
+    "player_id": 2,
+    "shot_type": "SMASH/SERVE",
+    "confidence": 0.382
+  },
+  {
+    "frame_idx": 353,
+    "timestamp_sec": 14.12,
+    "player_id": 2,
+    "shot_type": "SMASH/SERVE",
+    "confidence": 0.527
+  },
+  {
+    "frame_idx": 446,
+    "timestamp_sec": 17.84,
+    "player_id": 1,
+    "shot_type": "FOREHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 519,
+    "timestamp_sec": 20.76,
+    "player_id": 1,
+    "shot_type": "UNKNOWN",
+    "confidence": 0.175
+  },
+  {
+    "frame_idx": 627,
+    "timestamp_sec": 25.08,
+    "player_id": 1,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 664,
+    "timestamp_sec": 26.56,
+    "player_id": 1,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 680,
+    "timestamp_sec": 27.2,
+    "player_id": 1,
+    "shot_type": "FOREHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 801,
+    "timestamp_sec": 32.04,
+    "player_id": 1,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 842,
+    "timestamp_sec": 33.68,
+    "player_id": 378,
+    "shot_type": "FOREHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 899,
+    "timestamp_sec": 35.96,
+    "player_id": 378,
+    "shot_type": "FOREHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 919,
+    "timestamp_sec": 36.76,
+    "player_id": 378,
+    "shot_type": "FOREHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 1014,
+    "timestamp_sec": 40.56,
+    "player_id": 378,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 1041,
+    "timestamp_sec": 41.64,
+    "player_id": 378,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 1087,
+    "timestamp_sec": 43.48,
+    "player_id": 1,
+    "shot_type": "FOREHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 1139,
+    "timestamp_sec": 45.56,
+    "player_id": 1,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 1154,
+    "timestamp_sec": 46.16,
+    "player_id": 1,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 1193,
+    "timestamp_sec": 47.72,
+    "player_id": 1,
+    "shot_type": "UNKNOWN",
+    "confidence": 0.175
+  }
+]
